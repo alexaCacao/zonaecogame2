@@ -10,8 +10,12 @@
       var indiceAleatorio = Math.floor(Math.random() * imagenes.length);
       band = indiceAleatorio
       return imagenes[indiceAleatorio];
+<<<<<<< HEAD
       
    };
+=======
+};
+>>>>>>> 4c698b5364209316d4d9ab14a749dce76d640492
 
    // Función para mostrar el resultado y reproducir el sonido
    var mostrarResultado = function () {
